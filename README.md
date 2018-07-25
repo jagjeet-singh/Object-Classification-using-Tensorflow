@@ -23,7 +23,7 @@ Dataset used:
 Sample Results of Nearest Neighbor Analysis at FC7 and Pool5:
 
 ![nn](results/000627_NN.png)
-
+![nn](results/001317_NN.png)
 ![nn2](results/001232_NN.png)
 
 
