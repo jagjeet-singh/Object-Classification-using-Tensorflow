@@ -20,5 +20,9 @@ Dataset used:
 1. MNIST
 2. PASCAL 2007
 
-Sample Results of Nearest Neighbor Analysis:
+Sample Results of Nearest Neighbor Analysis at FC7 and Pool5:
+
+![nn](results/000627_NN.png)
+
+
 
